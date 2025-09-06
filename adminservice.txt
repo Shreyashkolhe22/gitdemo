@@ -1,1 +1,2 @@
 manage users , add and remove user.
+and also have more feature and control over the apllication
